@@ -5,4 +5,6 @@ This is my personal elm preference compilation.
 It is subject to changing based on comments. If you try it, let me know what you think. If you change it for your taste I'd like to have a look also!
 
 ## Use it in your project
-The easiest is to copy the config and the elm.json until I figure out a better way
+```bash
+elm-review init --template hadrienmp/hadrienmp-elm-review-style
+```
